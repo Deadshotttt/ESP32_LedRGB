@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=+5 Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=+5 Pin=P3-1
+Removed Pin From Net: NetName=B0 Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P3-3
+Removed Member From Class: ClassName=esp32_ledrgb Member=P2
+Removed Member From Class: ClassName=esp32_ledrgb Member=P3
+Added Component: Designator=JDC(DC-IN)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jack DC5.5x2.1MM DC5501"; VariantName = "[No Variations]"
+Added Component: Designator=P?(DOMINO_3PIN_5.08MM_RUT)
+Added Pin To Net: NetName=+5 Pin=JDC-1
+Added Pin To Net: NetName=GND Pin=JDC-2
+Added Pin To Net: NetName=GND Pin=JDC-3
+Added Pin To Net: NetName=+5 Pin=P?-1
+Added Pin To Net: NetName=B0 Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Member To Class: ClassName=esp32_ledrgb Member=Component JDC Jack DC5.5x2.1
+Added Member To Class: ClassName=esp32_ledrgb Member=Component P? Domino 3 pin
+Added Room: Name=esp32_ledrgb

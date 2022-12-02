@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=DTR Pin=U2-13
+Added Pin To Net: NetName=RTS Pin=U2-14
+Added Member To Class: ClassName=esp32_ledrgb Member=Component U2 CH340C
+Added Room: Name=esp32_ledrgb

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=IO5 Pin=CN3-2
+Removed Pin From Net: NetName=IO13 Pin=CN3-3
+Removed Pin From Net: NetName=+3V3 Pin=CN3-4
+Removed Pin From Net: NetName=IO14 Pin=CN3-5
+Removed Pin From Net: NetName=GND Pin=CN3-6
+Removed Pin From Net: NetName=IO12 Pin=CN3-7
+Removed Member From Class: ClassName=esp32_ledrgb Member=CN3
+Added Component: Designator=SD?(MicroSD_TF_V3)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Socket MicroSD TF V3 ( Soket Th? Nh?)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IO5 Pin=SD?-2
+Added Pin To Net: NetName=IO13 Pin=SD?-3
+Added Pin To Net: NetName=+3V3 Pin=SD?-4
+Added Pin To Net: NetName=IO14 Pin=SD?-5
+Added Pin To Net: NetName=GND Pin=SD?-6
+Added Pin To Net: NetName=IO12 Pin=SD?-7
+Added Pin To Net: NetName=GND Pin=SD?-10
+Added Pin To Net: NetName=GND Pin=SD?-10
+Added Pin To Net: NetName=GND Pin=SD?-10
+Added Pin To Net: NetName=GND Pin=SD?-10
+Added Member To Class: ClassName=esp32_ledrgb Member=Component SD? Socket MicroSD TF V3

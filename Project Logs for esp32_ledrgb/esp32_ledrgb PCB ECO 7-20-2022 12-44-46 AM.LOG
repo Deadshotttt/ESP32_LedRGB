@@ -1,0 +1,8 @@
+Added Component: Designator=CN3(MicroSD Card)
+Added Pin To Net: NetName=IO5 Pin=CN3-2
+Added Pin To Net: NetName=IO13 Pin=CN3-3
+Added Pin To Net: NetName=+3V3 Pin=CN3-4
+Added Pin To Net: NetName=IO14 Pin=CN3-5
+Added Pin To Net: NetName=GND Pin=CN3-6
+Added Pin To Net: NetName=IO12 Pin=CN3-7
+Added Member To Class: ClassName=esp32_ledrgb Member=Component CN3 MicroSD Card

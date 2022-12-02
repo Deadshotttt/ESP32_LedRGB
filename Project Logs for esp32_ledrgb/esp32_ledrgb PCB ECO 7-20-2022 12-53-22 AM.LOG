@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IO5 Pin=CN3-2
+Removed Pin From Net: NetName=IO13 Pin=CN3-3
+Removed Pin From Net: NetName=+3V3 Pin=CN3-4
+Removed Pin From Net: NetName=IO14 Pin=CN3-5
+Removed Pin From Net: NetName=GND Pin=CN3-6
+Removed Pin From Net: NetName=IO12 Pin=CN3-7
+Removed Member From Class: ClassName=esp32_ledrgb Member=CN3
+Added Component: Designator=CN?(MicroSD Card)
+Added Member To Class: ClassName=esp32_ledrgb Member=Component CN? MicroSD Card

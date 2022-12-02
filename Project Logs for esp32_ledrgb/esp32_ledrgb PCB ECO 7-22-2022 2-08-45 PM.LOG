@@ -1,0 +1,10 @@
+Added Component: Designator=U2(SOP-16_L10.0-W3.9-P1.27-LS6.0-BL)
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=RX Pin=U2-2
+Added Pin To Net: NetName=TX Pin=U2-3
+Added Pin To Net: NetName=+3V3 Pin=U2-4
+Added Pin To Net: NetName=NetCN1_3 Pin=U2-5
+Added Pin To Net: NetName=NetCN1_2 Pin=U2-6
+Added Pin To Net: NetName=+3V3 Pin=U2-16
+Added Member To Class: ClassName=esp32_ledrgb Member=Component U2 CH340C
+Added Room: Name=esp32_ledrgb

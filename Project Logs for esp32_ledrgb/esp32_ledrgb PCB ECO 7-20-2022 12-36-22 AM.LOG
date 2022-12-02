@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=IO19 Pin=P2-1
+Removed Pin From Net: NetName=IO18 Pin=P2-2
+Removed Pin From Net: NetName=IO21 Pin=P2-3
+Removed Pin From Net: NetName=IO23 Pin=P2-4
+Removed Pin From Net: NetName=IO19 Pin=P2-5
+Removed Pin From Net: NetName=IO27 Pin=P2-6
+Removed Member From Class: ClassName=esp32_ledrgb Member=P2
+Added Component: Designator=C14(HDR6)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IO19 Pin=C14-1
+Added Pin To Net: NetName=IO18 Pin=C14-2
+Added Pin To Net: NetName=IO21 Pin=C14-3
+Added Pin To Net: NetName=IO23 Pin=C14-4
+Added Pin To Net: NetName=IO19 Pin=C14-5
+Added Pin To Net: NetName=IO27 Pin=C14-6
+Added Member To Class: ClassName=esp32_ledrgb Member=Component C14 Header6

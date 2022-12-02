@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+3V3 Pin=p1-8
+Removed Pin From Net: NetName=+3V3 Pin=R15-1
+Removed Pin From Net: NetName=+3V3 Pin=U5-8
+Added Pin To Net: NetName=IO32 Pin=p1-8
+Added Pin To Net: NetName=IO32 Pin=R15-1
+Added Pin To Net: NetName=IO32 Pin=U5-8
+Added Net: Name=IO32
+Added Room: Name=esp32_ledrgb

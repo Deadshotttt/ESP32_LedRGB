@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3V3 Pin=R12-1
+Removed Pin From Net: NetName=+3V3 Pin=R12-2
+Removed Member From Class: ClassName=esp32_ledrgb Member=R12
+Change Component Footprint: Designator=CN2 Old Footprint=FPC-SMD_18P-P1.00_FPC18PIN New Footprint=FPC-SMD_KH-CL0.5-H2.0-18PIN
+Change Component Comment : Designator=CN2 Old Comment=FPC-18PINS New Comment=FPC-18pins-0.5mm
+Added Room: Name=esp32_ledrgb
